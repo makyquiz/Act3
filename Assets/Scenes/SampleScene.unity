@@ -153,8 +153,8 @@ MonoBehaviour:
   rotSpeed: 5
   target: {fileID: 905120698}
   fireRange: 5
-  fireCooldown: 2
-  aimThreshold: 0.9
+  fireCooldown: 1
+  aimThreshold: 0.85
   bulletPrefab: {fileID: 7042352639141727055, guid: a475ef48fbb54164d81b15935fd6f510, type: 3}
   firePoint: {fileID: 1687689220}
 --- !u!212 &479443317
